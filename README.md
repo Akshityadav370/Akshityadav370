@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ** Web and Mobile Development **<br>👯 I’m looking to collaborate on ** Web and Mobile Projects **<br>🤝 I’m looking for help with finding good jobs and good freelance projects<br>🌱 I’m currently learning Full Stack Gen AI and Full Stack Java<br>💬 Ask me about anything<br>⚡ Fun fact : ** I love to cook **
+🔭 I’m currently working on **Web and Mobile Development**<br>👯 I’m looking to collaborate on **Web and Mobile Projects**<br>🤝 I’m looking for help with finding good jobs and good freelance projects<br>🌱 I’m currently learning Full Stack Gen AI and Full Stack Java<br>💬 Ask me about anything<br>⚡ Fun fact : *I love to cook*
 
 
 ## 🌐 Socials:
